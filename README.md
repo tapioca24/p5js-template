@@ -97,7 +97,7 @@ See the [Hygen](https://www.hygen.io/) documentation for details.
 
 You can already run automatic code formatting and linting every time you save a file. You can also run them manually with the following commands.
 
-### Code formating
+### Code formatting
 
 ```sh
 npm run format
