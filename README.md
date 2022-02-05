@@ -93,7 +93,7 @@ You can easily preview your sketch with the [Live Preview](https://marketplace.v
 `_templates` directory contains the sketch templates. You can edit it or add new templates.  
 See the [Hygen](https://www.hygen.io/) documentation for details.
 
-## Scripts (Optional)
+## Other scripts (Optional)
 
 You can already run automatic code formatting and linting every time you save a file. You can also run them manually with the following commands.
 
